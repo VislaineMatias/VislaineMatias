@@ -3,7 +3,7 @@ Olá! Me chamo Vislaine Matias.😎
 - 👩‍💻 Estudando Java
 - ❤ Apaixonada por tecnologia
 - 🤖 Amante da Robótica
-- 🤑 Procurando um Estágio
+
 
 <picture>
   <source
