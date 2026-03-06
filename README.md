@@ -1,5 +1,7 @@
-# VislaineMatias
+# VislaineMatias 👩🏻‍💻💗🤖🖥️
 **`Desenvolvedora Back-End`**
+
+De protótipos físicos para a arquitetura de software: essa é a minha jornada. Comecei minha carreira imersa na Robótica e na atuação em laboratórios Maker, onde aprendi que a tecnologia é a melhor ferramenta para resolver problemas reais. Levei essa mentalidade de "construção e solução" para o mundo dos códigos. Atualmente, dedico meus estudos e projetos ao ecossistema Java e Spring Boot.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vislaine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
